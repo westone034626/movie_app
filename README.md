@@ -4,4 +4,4 @@
 
 목적: javascript 대표 library인 React를 학습하기 위한 목적으로 진행
 
-![링크](https://westone034626.github.io/movie_app/)
+[프로젝트 결과 링크](https://westone034626.github.io/movie_app/)
